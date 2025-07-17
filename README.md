@@ -48,7 +48,7 @@
 <body>
   <header>
     <h1>Mahe Ndao</h1>
-    <p>Data Analyst | SQL, Python, Power BI, GIS</p>
+    <p>Data Analyst | SQL | Python | Power BI| Finance</p>
     <nav>
       <a href="#projects">Projects</a>
       <a href="#about">About Me</a>
