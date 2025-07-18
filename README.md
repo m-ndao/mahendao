@@ -7,14 +7,13 @@
 
 ---
 
-## 🚀 Projects
+## 📊 Featured Projects
 
-### 1. Restaurant & Stock Data Analysis
-**Date:** January 2025  
-**Tools:** SQL, MySQL Workbench  
-- Designed ER model for restaurant chain data.
-- Wrote optimized queries to track top-selling items and stock shortages.
-- Mapped customer preferences across multiple firms and industries.
+### [SQL-Based Stock Market Analysis](https://github.com/m-ndao/sql-stock-analysis)
+A deep-dive into financial data using SQL queries on CRSP data (2010–2022).  
+Includes ER modeling, compound queries, market cap stats, and return views with SQL.
+
+![Preview](sql-stock-analysis/market-cap.png)
 
 ---
 
