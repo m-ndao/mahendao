@@ -11,7 +11,7 @@
 
 ### [SQL-Based Stock Market Analysis](https://github.com/m-ndao/sql-stock-analysis)
 A deep-dive into financial data using SQL queries on CRSP data (2010–2022).  
-Includes ER modeling, compound queries, market cap stats, and return views with SQL.
+Includes ER modeling, compound queries, market cap stats, and return views with SQL. to
 
 ![Preview](sql-stock-analysis/market-cap.png)
 
