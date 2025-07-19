@@ -9,7 +9,7 @@
 
 ## 📊 Featured Projects
 
-### [SQL-Based Stock Market Analysis](https://github.com/m-ndao/sql-stock-analysis)
+### 1. [SQL-Based Stock Market Analysis](https://github.com/m-ndao/sql-stock-analysis)
 A deep-dive into financial data using SQL queries on CRSP data (2010–2022).  
 Includes ER modeling, compound queries, market cap stats, and return views with SQL.
 
