@@ -17,8 +17,7 @@ Includes ER modeling, compound queries, market cap stats, and return views with 
 
 ---
 
-### 2. Directional Prediction of Stock Indexes: DJIA vs. Russell 2000
-**Date:** April 2023  
+### 2. [Directional Prediction of Stock Indexes: DJIA vs. Russell 2000](https://github.com/m-ndao/sql-stock-analysis)
 **Tools:** Python, Seaborn, Scikit-learn  
 - Built ML models (Random Forest, SVM) and econometrics models (Logit/Probit) to predict DJIA/RUT movements.
 - Achieved 71% accuracy in DJIA prediction using historical market data.
