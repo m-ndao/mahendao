@@ -17,7 +17,7 @@ Includes ER modeling, compound queries, market cap stats, and return views with 
 
 ---
 
-### 2. Stock Market Prediction Models
+### 2. Directional Prediction of Stock Indexes: DJIA vs. Russell 2000
 **Date:** April 2023  
 **Tools:** Python, Seaborn, Scikit-learn  
 - Built ML models (Random Forest, SVM) and econometrics models (Logit/Probit) to predict DJIA/RUT movements.
